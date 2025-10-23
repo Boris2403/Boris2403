@@ -12,7 +12,7 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
 
 ---
 ## 💼 Estadísticas
-- GitHub: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boris2403&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boris2403&layout=compact)
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** Java ☕ | JavaScript ⚡ | Python 🐍 | SQL 🧠  
