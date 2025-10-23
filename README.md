@@ -63,10 +63,10 @@ Además, disfruto el **desarrollo de videojuegos**, aplicando buenas prácticas 
 
 ## 📚 Proyectos destacados
 
-🔹 [RexGames](https://github.com/Boris2403/RexGames) — Tienda de videojuegos en línea con arquitectura por capas.  
-🔹 [AutoPremium](https://github.com/jonathan-jiron/AutoPremium) — Plataforma de compra y venta de autos.  
-🔹 [Sistema de Gestión de Seguros Médicos](https://github.com/MateoAuz/SegurosApp) — Proyecto académico con integración frontend-backend y base de datos.  
-🔹 [WebApp educativa SPINO](https://github.com/usuario/TowerDefense) — Aplicación web estilo juego educativo.
+🔹 [RexGames](https://github.com/Boris2403/RexGame) — Tienda de videojuegos en línea con arquitectura por capas.  
+🔹 [AutoPremium](https://github.com/jonathan-jiron/Productos) — Plataforma de compra y venta de autos.  
+🔹 [Sistema de Gestión de Seguros Médicos](https://github.com/MateoAuz/PlataformaSeguros) — Proyecto académico con integración frontend-backend y base de datos.  
+🔹 [WebApp educativa SPINO](https://github.com/Boris2403/SPINO) — Aplicación web estilo juego educativo.
 
 ---
 
