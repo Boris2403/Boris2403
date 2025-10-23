@@ -21,9 +21,7 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
 ## **Lenguajes:** ⚙️
 
 <p> 
-  <a>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </a>
+
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
@@ -32,10 +30,11 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
 - **Frontend:** HTML | CSS | React | Vite |Bootstrap  
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-- **Backend:** Node.js | .NET  
-- **Bases de datos:** MySQL |
-- **Control de versiones:** Git | GitHub  
-- **Otras:** Pygame | MATLAB | LaTeX  
+  
+## **Backend:** Node.js | .NET  
+## **Bases de datos:** MySQL |
+## **Control de versiones:** Git | GitHub  
+## **Otras:** Pygame | MATLAB | LaTeX  
 
 ---
 
