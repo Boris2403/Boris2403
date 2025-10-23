@@ -1,6 +1,7 @@
-## Boris Yussef Vinces Cueva
+## 
+¡Hola!, me llamo Boris Yussef Vinces Cueva
 
-## 💻 **Desarrollador de Software principiante **  
+## 💻 Desarrollador de Software principiante   
 🎓 Estudiante de Ingeniería en Software en la **Universidad Técnica de Ambato (Ecuador)**  
 
 ---
@@ -33,7 +34,7 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 
 </p>
----
+
 
 ## **Frontend:** 
 - HTML 
