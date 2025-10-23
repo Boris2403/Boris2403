@@ -14,12 +14,12 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
 
 ---
 ## 💼 Estadísticas
-<a>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boris2403&layout=compact)
-</a>
-<a>
+
+
   ![Boris2403's Stats](https://github-readme-stats.vercel.app/api?username=Boris2403&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-</a>
+
 
 ---
 ## 🛠️ Tecnologías y herramientas
