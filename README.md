@@ -14,10 +14,14 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
 
 ---
 ## 💼 Estadísticas
-<p align= "center">
+<a>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boris2403&layout=compact)
+</a>
+<a>
   ![Boris2403's Stats](https://github-readme-stats.vercel.app/api?username=Boris2403&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-</p>
+</a>
+
+---
 ## 🛠️ Tecnologías y herramientas
 
 ## **Lenguajes:** ⚙️
@@ -29,6 +33,8 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 
 </p>
+---
+
 ## **Frontend:** 
 - HTML 
 - CSS 
