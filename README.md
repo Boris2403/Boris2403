@@ -15,7 +15,7 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boris2403&layout=compact)
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** Java ☕ | JavaScript ⚡ | Python 🐍 | SQL 🧠  
+- **Lenguajes:** Java ☕ | JavaScript ⚡ | Python 🐍 
 - **Frontend:** HTML | CSS | React | Vite |Bootstrap  
 - **Backend:** Node.js | .NET  
 - **Bases de datos:** MySQL |
