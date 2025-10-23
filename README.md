@@ -1,5 +1,4 @@
-## 
-¡Hola!, me llamo Boris Yussef Vinces Cueva
+## ¡Hola!, me llamo Boris Yussef Vinces Cueva
 
 ## 💻 Desarrollador de Software principiante   
 🎓 Estudiante de Ingeniería en Software en la **Universidad Técnica de Ambato (Ecuador)**  
