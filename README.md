@@ -1,4 +1,6 @@
-💻 **Desarrollador de Software principiante **  
+## Boris Yussef Vinces Cueva
+
+## 💻 **Desarrollador de Software principiante **  
 🎓 Estudiante de Ingeniería en Software en la **Universidad Técnica de Ambato (Ecuador)**  
 
 ---
@@ -12,7 +14,7 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
 
 ---
 ## 💼 Estadísticas
-<p class="center-text">
+<p align= "center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boris2403&layout=compact)
   ![Boris2403's Stats](https://github-readme-stats.vercel.app/api?username=Boris2403&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 </p>
@@ -27,14 +29,25 @@ Me interesa la **seguridad del software** la **inteligencia artificial aplicada 
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 
 </p>
-- **Frontend:** HTML | CSS | React | Vite |Bootstrap  
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-  
-## **Backend:** Node.js | .NET  
-## **Bases de datos:** MySQL |
-## **Control de versiones:** Git | GitHub  
-## **Otras:** Pygame | MATLAB | LaTeX  
+## **Frontend:** 
+- HTML 
+- CSS 
+- React 
+- Vite 
+- Bootstrap  
+ 
+## **Backend:** 
+- Node.js 
+- .NET  
+## **Bases de datos:**
+- MySQL
+## **Control de versiones:** 
+- Git 
+- GitHub  
+## **Otras:** 
+- Pygame
+- MATLAB
+- LaTeX  
 
 ---
 
